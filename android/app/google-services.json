@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351726786712",
+    "project_id": "atlsfw-app",
+    "storage_bucket": "atlsfw-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351726786712:android:c2985d8c4a583cefe958ed",
+        "android_client_info": {
+          "package_name": "com.atlsfw.atlsfw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-8wOhGqKW6eayDusw0VgTtli6OhVd6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
