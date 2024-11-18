@@ -25,7 +25,6 @@ const firebaseConfigAndroid = {
 
 const firebaseConfig = Platform.OS === 'ios' ? firebaseConfigIOS : firebaseConfigAndroid;
 
-// Initialize Firebase only once
 if (!firebase.apps.length) {
     firebase.initializeApp(firebaseConfig);
 }
